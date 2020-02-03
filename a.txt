@@ -1,0 +1,25 @@
+function @fname ( )
+{
+
+
+IF( 5 plus 3 minus 2 )
+	{
+
+			IF( 5 minus 1 )
+			{
+
+				IF( 5 mul 2 )
+				{
+
+				IF( 5 mul 2 )
+				{
+					12 plus 8 div 8 $$ $$
+				}
+					
+				}
+
+			}
+		
+	}
+	
+}

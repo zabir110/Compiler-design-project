@@ -1,0 +1,23 @@
+
+value of expression: 13
+
+value of expression in IF: 13
+syntax error
+
+Identfiers=0
+arithmatic_operator=7
+unary_operator=0
+_logical_operator=0
+relational_operator=0
+assignment_operator=0
+library_function=0
+datatype=0
+loop=0
+conditional_statement=4
+integer=0
+floatnum=0
+NewLine=2
+mcmnt=0
+_user_function=0
+Keyword=31
+Single line comment=0
